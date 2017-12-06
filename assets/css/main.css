@@ -1,4 +1,41 @@
-.collapse.navbar-collapse{
-	border: none;
+	
+
+.taxi{
+	background-image: url(../images/taxi.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-position: bottom;
+	height: 600px;
+}
+
+.yellow1{
+	background-color:#F7B617;
+	color: white;
+}
+
+.phone{
+	border: 2px solid white;
+	padding: 30px;
+	display: inline-block;
+}
+
+.cars{
+	background-image: url(../images/conduce.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-position: bottom;
+	height: 400px;
+}
+
+.grey{
+	color: white;
+	background-color: #2B2B2B
+}
+
+.list1{
+	list-style: none;
+	display: inline-block;
 }
 
