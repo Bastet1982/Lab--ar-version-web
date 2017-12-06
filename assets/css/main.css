@@ -9,14 +9,30 @@
 	height: 600px;
 }
 
+.fondo{
+	background-color:#F7B617;
+	padding: 10px;
+	margin-top: 100px;
+}
+
+.fon1{
+	margin-top: 100px;
+	background-color:#F7B617;
+	padding: 10px;
+}
 .yellow1{
 	background-color:#F7B617;
 	color: white;
 }
 
-.phone{
+.whiteLine{
 	border: 2px solid white;
-	padding: 30px;
+	height: 450px;
+	width: 
+	margin-top: 30px;
+	display: inline-block;
+}
+.text{
 	display: inline-block;
 }
 
